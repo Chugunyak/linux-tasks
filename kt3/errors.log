@@ -1,0 +1,2 @@
+k2t1.sh:grep -i "error" * > errors.log
+k2t1.sh:grep -Eo '[^ ]+.[^ ]+' errors.log
